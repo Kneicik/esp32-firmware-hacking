@@ -9,7 +9,6 @@ This repository contains tools and scripts for dumping, analyzing, editing, and 
 ├── .gitignore                # Git ignore rules
 ├── platformio.ini            # PlatformIO configuration file
 ├── .pio/                     # PlatformIO build artifacts (ignored by Git)
-├── .vscode/                  # VS Code configuration for PlatformIO
 ├── decomp/                   # Decompiled firmware analysis files
 ├── libdeps/                  # PlatformIO library dependencies
 ├── scripts/                  # Python scripts for firmware manipulation
